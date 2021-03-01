@@ -1,4 +1,4 @@
-# Order Service - Lumen PHP Framework
+# Trufla Code Challenge - Laravel PHP Framework (8.12)
 
 ## Usage:
 - Create DB with name **trufla** (Terminal, PHPmyAdmin, or any tool supporting MySQL) 
