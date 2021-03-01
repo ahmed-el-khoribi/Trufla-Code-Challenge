@@ -19,7 +19,7 @@ class MoviesSeed extends Command
      *
      * @var string
      */
-    protected $description = 'Seeds Movies for TMDB, with time interval, and number of movies to be seeded.';
+    protected $description = 'Seeds Movies for TMDB with number of movies to be seeded.';
 
     /**
      * Create a new command instance.
