@@ -1,0 +1,26 @@
+{
+    "name": "Reda/MoviesSeeder",
+    "description": "Zenna Theme",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Reda",
+            "email": "reda19952013@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Reda\\MoviesSeeder\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Reda\\MoviesSeeder\\Providers\\MoviesSeederServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
