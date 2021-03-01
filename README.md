@@ -29,7 +29,7 @@
 
         php artisan movies:seed {num_of_records}    
 
--   Run the following command to start the seeder schedule <b>(Before this step open the package service provider at path: <i>packages/Reda/MoviesSeeder\Providers\MoviesSeederServiceProvider</i> line (32) you may configure the interval this schedule runs.)</b>
+-   Run the following command to start the seeder schedule <b>(Before this step open the package service provider at path: <i>packages\Reda\MoviesSeeder\src\Providers\MoviesSeederServiceProvider</i> line (32) you may configure the interval this schedule runs.)</b>
 
         php artisan schedule:run
 
