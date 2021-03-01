@@ -5,7 +5,7 @@
 
 <b><i>you may need to configure .env.example file to your local environment</i></b>
 
-- Run on Command Widnow (Terminal) <small><i>This command runs a script which runs "composer install" if not tunned before, copies .env.example file to .env and runs "php artisan key:generate", then migrates the database and runs local server "php artisan serve". 
+- Run on Command Widnow (Terminal) <small><i>This command runs a script which runs "composer install" if not runned before, copies .env.example file to .env and runs "php artisan key:generate", then migrates the database and runs local server "php artisan serve". 
 
         bash run.sh     
 
